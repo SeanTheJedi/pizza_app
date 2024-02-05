@@ -147,7 +147,7 @@ struct ContentView: View {
         //checking for invalid coupons
         if (orderInfo.couponCode != "") {
             if (orderInfo.couponCode.hasPrefix("OFFER") == false) {
-                self.errorMessage2 = "Invalid coupon code"
+                self.errorMessage2 = "Invalid coupon code entered"
                 return
             } else {
                 self.errorMessage2 = nil
