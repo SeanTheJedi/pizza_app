@@ -4,7 +4,7 @@ This is an iOS app that that enables the user to enter their order details and g
 <h2>What I learned</h2>
 <ul>
   <li>How to build user interfaces using SwiftUI</li>
-  <li>How to use some views likes picker, textfields</li>
+  <li>How to use some views like picker, textfields and alerts</li>
   <li>How to organize views using HStack and VStack</li>
 </ul>
 
